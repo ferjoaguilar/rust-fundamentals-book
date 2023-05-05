@@ -1,3 +1,4 @@
 fn main() {
-    println!("Functions class")
+   println!("Variables types class")
+
 }
