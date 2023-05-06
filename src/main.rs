@@ -1,4 +1,3 @@
 fn main() {
-    
-    println!("Mutability");
+    println!("structs.rs");
 }
